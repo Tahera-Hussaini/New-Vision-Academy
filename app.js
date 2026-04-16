@@ -10,7 +10,7 @@ loadProfile();
 /* LOGOUT */
 function logout(){
   localStorage.removeItem("user");
-  location.href = "login.html";
+  location.href = "Login.html";
 }
 
 /* ================= LIBRARY ================= */
